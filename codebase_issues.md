@@ -1,7 +1,7 @@
 # Issues when running different existing codebases
 
 ## XLM
-- Need to use `gcc7`
+- Need to use `gcc7` when installing Apex
 - Make sure cuda version is the same as the cuda that is used to compile pytorch!
 
 ## Unsupervised QA
