@@ -1,2 +1,2 @@
-# ml-notes
-Machine learning study notes and code snips
+# notes
+Notes and code snips for research and studying
